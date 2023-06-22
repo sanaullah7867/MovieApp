@@ -6,7 +6,7 @@ The Movie App is a responsive web application that allows users to browse and se
 HTML: The backbone of the application's structure and content.
 CSS: Used for styling and layout, ensuring an attractive and intuitive user interface.
 JavaScript: Implements the interactive features, such as searching movies, displaying movie details, and managing the watchlist.
-# Features:
+# Link:
 https://www.sanaullahkhan.in/movieapp/
 
 # Features:
