@@ -1,0 +1,1951 @@
+{
+  "movies": [
+	{
+		"id": "01",
+		"title": "Thor: Love and Thunder",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2022",
+		"release_date": "06-07-2022",
+		"movie_industry": 1,	
+		"banner": 1,	
+		"newitem": 1,	
+		"rating": "6.8",		
+		"image": "assets/img/database/movies/thorlovethunder_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/thorlovethunder_banner.jpg",
+		"poster": "assets/img/database/movies/thorlovethunder_poster.jpg",
+		"description": "Thor embarks on a journey unlike anything he's ever faced - a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie, Korg and ex-girlfriend Jane Foster, who - to his surprise - inexplicably wields his magical hammer. Together, they set out on a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance.",
+		"cast": [
+			{
+				"actor": "Chris Hemsworth",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Natalie Portman",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Christian Bale",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Tessa Thompson",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Russell Crowe",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Jaimie Alexander",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Chris Pratt",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Dave Bautista",
+				"actor_pic": "assets/img/male_avatar.png"			
+			}
+		],
+		"director": [
+			"Taika Waititi"
+		],
+		"genre": [
+			"Action",
+			"Adventure",
+			"Comedy"
+		],
+		"running_time": "118",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "tgB1wUcmbbw",
+		"scenes": [
+			{
+				"sctitle": "Thor: Love and Thunder | Speech",
+				"url": "MqMRGkmGO98"			
+			},
+			{
+				"sctitle": "Thor: Love and Thunder | Team",
+				"url": "JVuq8BHIlbQ"			
+			},
+			{
+				"sctitle": "Thor Tries To Steal Mjolnir From Jane Foster ",
+				"url": "VWYQO7g22Z8"			
+			},
+			{
+				"sctitle": "Thor: Love and Thunder | Journey",
+				"url": "S5bVvAHLUYY"			
+			},
+			{
+				"sctitle": "Mjolnir Killing Berserker Extended Footage",
+				"url": "4QQj4gVFeQQ"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/thorlovethunder_1.jpg",
+			"assets/img/database/movies/thorlovethunder_2.jpg",
+			"assets/img/database/movies/thorlovethunder_3.jpg",
+			"assets/img/database/movies/thorlovethunder_4.jpg",
+			"assets/img/database/movies/thorlovethunder_5.jpg",
+			"assets/img/database/movies/thorlovethunder_6.jpg",
+			"assets/img/database/movies/thorlovethunder_7.jpg",
+			"assets/img/database/movies/thorlovethunder_8.jpg",
+			"assets/img/database/movies/thorlovethunder_9.jpg",
+			"assets/img/database/movies/thorlovethunder_10.jpg",
+			"assets/img/database/movies/thorlovethunder_11.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "02",
+		"title": "The Gray Man",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2022",	
+		"release_date": "22-07-2022",
+		"movie_industry": 1,
+		"banner": 1,	
+		"newitem": 1,	
+		"rating": "6.5",		
+		"image": "assets/img/database/movies/tgm_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/tgm_banner.jpg",
+		"poster": "assets/img/database/movies/tgm_poster.jpg",
+		"description": "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+		"cast": [
+			{
+				"actor": "Ryan Gosling",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Chris Evans",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Ana de Armas",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Dhanush",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Jessica Henwick",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Billy Bob Thornton",
+				"actor_pic": "assets/img/male_avatar.png"			
+			}
+		],
+		"director": [
+			"Anthony Russo",
+			"Joe Russo"
+		],
+		"genre": [
+			"Action",
+			"Thiller"
+		],
+		"running_time": "122",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "BmllggGO4pM",
+		"scenes": [
+			{
+				"sctitle": "Dhanush vs. Ryan Gosling + Ana de Armas Hospital Fight Scene",
+				"url": "u_mQ1SJdo4g"			
+			},
+			{
+				"sctitle": "Gosling vs. Evans EXCLUSIVE CLIP",
+				"url": "6q93pzTw2rY"			
+			},
+			{
+				"sctitle": "Dhanush vs. Ryan Gosling",
+				"url": "FAoCuhGeWVQ"			
+			},
+			{
+				"sctitle": "Plane Fight Scene - The Gray Man",
+				"url": "KbHwbv_0k4A"			
+			},
+			{
+				"sctitle": "When Ryan Gosling & Chris Evans Meet in The Gray Man",
+				"url": "ZhYBqPPy-LA"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/tgm_1.jpg",
+			"assets/img/database/movies/tgm_2.jpg",
+			"assets/img/database/movies/tgm_3.jpg",
+			"assets/img/database/movies/tgm_4.jpg",
+			"assets/img/database/movies/tgm_5.jpg",
+			"assets/img/database/movies/tgm_6.jpg",
+			"assets/img/database/movies/tgm_7.jpg",
+			"assets/img/database/movies/tgm_8.jpg",
+			"assets/img/database/movies/tgm_9.jpg",
+			"assets/img/database/movies/tgm_10.jpg",
+			"assets/img/database/movies/tgm_11.jpg",
+			"assets/img/database/movies/tgm_12.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "03",
+		"title": "The Adam Project",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2022",
+		"release_date": "28-02-2022",
+		"movie_industry": 1,	
+		"banner": 1,	
+		"newitem": 1,	
+		"rating": "6.7",		
+		"image": "assets/img/database/movies/tap_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/tap_banner.jpg",
+		"poster": "assets/img/database/movies/tap_poster.jpg",
+		"description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+		"cast": [
+			{
+				"actor": "Benedict Cumberbatch",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Elizabeth Olsen",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Chiwetel Ejiofor",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Benedict Wong",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Xochitl Gomez",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Rachel McAdams",
+				"actor_pic": "assets/img/male_avatar.png"			
+			}
+		],
+		"director": [
+			"Shawn Levy"
+		],
+		"genre": [
+			"Action",
+			"Adventure",
+			"Comedy"
+		],
+		"running_time": "107",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "aWzlQ2N6qqg",
+		"scenes": [
+			{
+				"sctitle": "Walker Scobell First Meets Ryan Reynolds",
+				"url": "yrgv7wN3_sA"			
+			},
+			{
+				"sctitle": "Walker Scobell & Ryan Reynolds Final Fight Scene",
+				"url": "S2M-GZ9gorU"			
+			},
+			{
+				"sctitle": "Best of Ryan Reynolds | The Adam Project",
+				"url": "_V9CZYk83S8"			
+			},
+			{
+				"sctitle": "Ryan Reynolds Reveals His Amazing Spaceship",
+				"url": "-gF8WhALrFI"			
+			},
+			{
+				"sctitle": "Ryan Reynolds & Mark Ruffalo Scene",
+				"url": "ZsPLVsydFzA"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/tap_1.jpg",
+			"assets/img/database/movies/tap_2.jpg",
+			"assets/img/database/movies/tap_3.jpg",
+			"assets/img/database/movies/tap_4.jpg",
+			"assets/img/database/movies/tap_5.jpg",
+			"assets/img/database/movies/tap_6.jpg",
+			"assets/img/database/movies/tap_7.jpg",
+			"assets/img/database/movies/tap_8.jpg",
+			"assets/img/database/movies/tap_9.jpg",
+			"assets/img/database/movies/tap_10.jpg",
+			"assets/img/database/movies/tap_11.jpg",
+			"assets/img/database/movies/tap_12.jpg",
+			"assets/img/database/movies/tap_13.jpg",
+			"assets/img/database/movies/tap_14.jpg",
+			"assets/img/database/movies/tap_15.jpg",
+			"assets/img/database/movies/tap_16.jpg",
+			"assets/img/database/movies/tap_17.jpg",
+			"assets/img/database/movies/tap_18.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "04",
+		"title": "Doctor Strange in the Multiverse of Madness",
+		"type": "Movie",
+		"top10": 0,
+		"year": "2022",
+		"release_date": "06-05-2022",
+		"movie_industry": 1,
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "7.0",		
+		"image": "assets/img/database/movies/dstrangemom_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/dstrangemom_banner.jpg",
+		"poster": "assets/img/database/movies/dstrangemom_poster.jpg",
+		"description": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.",
+		"cast": [
+			{
+				"actor": "Benedict Cumberbatch",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Elizabeth Olsen",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Chiwetel Ejiofor",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Benedict Wong",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Xochitl Gomez",
+				"actor_pic": "assets/img/male_avatar.png"			
+			},
+			{
+				"actor": "Rachel McAdams",
+				"actor_pic": "assets/img/male_avatar.png"			
+			}
+		],
+		"director": [
+			"Sam Raimi"
+		],
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"running_time": "126",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "aWzlQ2N6qqg",
+		"scenes": [
+			{
+				"sctitle": "America Chavez and Doctor Strange travels through Multiverse",
+				"url": "yb_unllzTAg"			
+			},
+			{
+				"sctitle": "Doctor Strange Attacks Wanda with 8 Head Dragon",
+				"url": "b9mBnldbIXE"			
+			},
+			{
+				"sctitle": "Wong & Strange VS Gargantos Fight",
+				"url": "dhYOJj6PX7I"			
+			},
+			{
+				"sctitle": "Doctor Strange vs Sinister Strange Full Fight",
+				"url": "LfWBZTFCncM"			
+			},
+			{
+				"sctitle": "Wanda vs The Illuminati - Scarlet Witch vs The Illuminati",
+				"url": "eatBexTqdGo"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/dstrangemom_1.jpg",
+			"assets/img/database/movies/dstrangemom_2.jpg",
+			"assets/img/database/movies/dstrangemom_3.jpg",
+			"assets/img/database/movies/dstrangemom_4.jpg",
+			"assets/img/database/movies/dstrangemom_5.jpg",
+			"assets/img/database/movies/dstrangemom_6.jpg",
+			"assets/img/database/movies/dstrangemom_7.jpg",
+			"assets/img/database/movies/dstrangemom_8.jpg",
+			"assets/img/database/movies/dstrangemom_9.jpg",
+			"assets/img/database/movies/dstrangemom_10.jpg",
+			"assets/img/database/movies/dstrangemom_11.jpg",
+			"assets/img/database/movies/dstrangemom_13.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "05",
+		"title": "Uncharted",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2022",
+		"release_date": "18-02-2022",
+		"movie_industry": 1,	
+		"banner": 1,	
+		"newitem": 1,	
+		"rating": "6.4",		
+		"image": "assets/img/database/movies/uncharted_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/uncharted_banner.jpg",
+		"poster": "assets/img/database/movies/uncharted_poster.jpg",
+		"description": "Treasure hunter Victor 'Sully' Sullivan recruits street-smart Nathan Drake to help him recover a 500-year-old lost fortune amassed by explorer Ferdinand Magellan. What starts out as a heist soon becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it. If Sully and Nate can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure -- but only if they can learn to work together.",
+		"cast": [	
+			{ "actor": "Tom Holland" },
+			{ "actor": "Mark Wahlberg" },
+			{ "actor": "Sophia Taylor Ali" },
+			{ "actor": "Rudy Pankow" },
+			{ "actor": "Tati Gabrielle" },
+			{ "actor": "Antonio Banderas" },
+			{ "actor": "Bryan Cranston" },
+			{ "actor": "El Rubius" }
+		],
+		"director": [
+			"Cary Joji Fukunaga"
+		],
+		"genre": [
+			"Action",
+			"Adventure",
+			"Thriller"
+		],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "eHp3MbsCbMg",
+		"scenes": [
+			{
+				"sctitle": "Exclusive Scene - Plane Fight",
+				"url": "esy5uqZpP1E"			
+			},
+			{
+				"sctitle": "Bar Fight",
+				"url": "TGh32LP_qiU"			
+			},
+			{
+				"sctitle": "First 10 Minutes",
+				"url": "81-34IJPlLM"			
+			},
+			{
+				"sctitle": "One Rule",
+				"url": "6k3a431hYS0"			
+			},
+			{
+				"sctitle": "Bartenderizer",
+				"url": "F3eZqORBxGs"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/uncharted_1.jpg",
+			"assets/img/database/movies/uncharted_2.jpg",
+			"assets/img/database/movies/uncharted_3.jpg",
+			"assets/img/database/movies/uncharted_4.jpg",
+			"assets/img/database/movies/uncharted_5.jpg",
+			"assets/img/database/movies/uncharted_6.jpg",
+			"assets/img/database/movies/uncharted_7.jpg",
+			"assets/img/database/movies/uncharted_8.jpg",
+			"assets/img/database/movies/uncharted_9.jpg",
+			"assets/img/database/movies/uncharted_10.jpg",
+			"assets/img/database/movies/uncharted_11.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "06",
+		"title": "No Time to Die",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "30-09-2021",
+		"movie_industry": 1,	
+		"banner": 1,	
+		"newitem": 1,		
+		"rating": "7.3",	
+		"image": "assets/img/database/movies/nttd_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/nttd_banner.jpg",
+		"poster": "assets/img/database/movies/nttd_poster.jpg",
+		"description": "James Bond is enjoying a tranquil life in Jamaica after leaving active service. However, his peace is short-lived as his old CIA friend, Felix Leiter, shows up and asks for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond on the trail of a mysterious villain who's armed with a dangerous new technology",
+		"cast": [	
+			{ "actor": "Daniel Craig"  },
+			{ "actor": "Ana de Armas"  },
+			{ "actor": "Rami Malek" }
+		],
+		"director": ["Cary Joji Fukunaga"],
+		"genre": ["Action", "Adventure", "Thriller"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "BIhNsAtPbPI",
+		"scenes": [
+			{
+				"sctitle": "Another Classic Bond Chase Scene",
+				"url": "oKIkvEjI2WE"			
+			},
+			{
+				"sctitle": "Italy Chase Scene",
+				"url": "pr3NuJ04LWk"			
+			},
+			{
+				"sctitle": "Last Death Scene",
+				"url": "Pzf7qx_be_8"			
+			},
+			{
+				"sctitle": "Bond Meets Paloma",
+				"url": "lD3rWBMydDw"			
+			},
+			{
+				"sctitle": "Bond and Paloma Fight Scene",
+				"url": "fYPgDb5nJpM"			
+			},
+			{
+				"sctitle": "Norway Chase",
+				"url": "l79BtYcLJAc"			
+			},
+			{
+				"sctitle": "Forest Fight Scene",
+				"url": "gjBxRM0IW5U"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/nttd_1.jpg",
+			"assets/img/database/movies/nttd_2.jpg",
+			"assets/img/database/movies/nttd_3.jpg",
+			"assets/img/database/movies/nttd_4.jpg",
+			"assets/img/database/movies/nttd_5.jpg",
+			"assets/img/database/movies/nttd_6.jpg",
+			"assets/img/database/movies/nttd_7.jpg",
+			"assets/img/database/movies/nttd_8.jpg",
+			"assets/img/database/movies/nttd_9.jpg",
+			"assets/img/database/movies/nttd_10.jpg",
+			"assets/img/database/movies/nttd_11.jpg",
+			"assets/img/database/movies/nttd_12.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "07",
+		"title": "F9: The Fast Saga",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "25-06-2021",
+		"movie_industry": 1, 
+		"banner": 0, 	
+		"newitem": 1,
+		"rating": "5.2",	
+		"image": "assets/img/database/movies/fast9_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/fast9_banner.jpg",
+		"poster": "assets/img/database/movies/fast9_poster.jpg",
+		"description": "Dominic Toretto is forced to put his retirement on hold when Cipher, the dangerous cyberterrorist, escapes with the help of Dominic's estranged brother, an international terrorist. Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		], 
+		"director": ["Justin Lin"],
+		"genre": ["Action", "Crime", "Thriller"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "aSiDu3Ywi8E",
+		"scenes": [
+			{
+				"sctitle": "F9: The Fast Saga: Dom saves his brother",
+				"url": "v-Y8skN6snI"			
+			},
+			{
+				"sctitle": "Fast and Furious 9 - Rocket car in space Scene",
+				"url": "H6PQ9czKlTs"			
+			},
+			{
+				"sctitle": "F9 The Fast Saga - The Rope Swing Scene",
+				"url": "wJibJZb4XXw"			
+			},
+			{
+				"sctitle": "F9 The Fast Saga - The Minefield Chase Scene",
+				"url": "sC_zQJuFPCs"			
+			},
+			{
+				"sctitle": "F9 The Fast Saga - Flipping the Truck Scene",
+				"url": "xLEvwge-Iq0"			
+			},
+			{
+				"sctitle": "F9: The Fast Saga: The team vs. Jakob and his men",
+				"url": "oskjjH7Z1VA"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/fast9_01.jpg",
+			"assets/img/database/movies/fast9_02.jpg",
+			"assets/img/database/movies/fast9_03.jpg",
+			"assets/img/database/movies/fast9_04.jpg",
+			"assets/img/database/movies/fast9_05.jpg",
+			"assets/img/database/movies/fast9_06.jpg",
+			"assets/img/database/movies/fast9_07.jpg",
+			"assets/img/database/movies/fast9_08.jpg",
+			"assets/img/database/movies/fast9_09.jpg",
+			"assets/img/database/movies/fast9_10.jpg",
+			"assets/img/database/movies/fast9_11.jpg",
+			"assets/img/database/movies/fast9_12.jpg",
+			"assets/img/database/movies/fast9_13.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "08",
+		"title": "Shershaah",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "12-08-2021",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/shershaah_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/shershaah_banner.jpg",
+		"poster": "assets/img/database/movies/shershaah_poster.jpg",
+		"description": "The film Shershaah is a story of a PVC awardee brave Indian soldier- Capt. Vikram Batra, who shot to fame and became a household name during the Kargil War in 1999. His indomitable spirit and his unflinching courage in chasing the Pakistani soldiers out of Indian territory contributed immensely in India finally winning the Kargil War in 1999.",
+		"cast": [	
+			{ "actor": "Sidharth Malhotra"  },
+			{ "actor": "Kiara Advani"  },
+			{ "actor": "Shiv Pandit" }
+		],
+		"director": ["Vishnuvardhan"],
+		"genre": ["Action", "Biography", "Drama"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "Q0FTXnefVBA",
+		"scenes": [
+			{
+				"sctitle": "The Epic Love Story - Shershaah | Sidharth Malhotra, Kiara Advani",
+				"url": "snR4tV9RXWA"			
+			},
+			{
+				"sctitle": "Shershah Most Romantic Scene || Sidharth Malhotra | Kiara Advani",
+				"url": "33ta8hvVUso"			
+			},
+			{
+				"sctitle": "Shershah (Capt. Vikram Batra) - Terrorist Fight Scene",
+				"url": "XLPfGB6DhxA"			
+			},
+			{
+				"sctitle": "Last scene of Shersaah",
+				"url": "K72FAM_xPj8"			
+			},
+			{
+				"sctitle": "Shershaah Short Scene Full Movie",
+				"url": "7Rm7gP5GlsE"			
+			},
+			{
+				"sctitle": "When Dimple Chemma Fights with her father for Vikram",
+				"url": "hVrYftRXUc4"			
+			}
+		],
+		"gallery": [
+			"assets/img/database/movies/shershaah_01.jpg",
+			"assets/img/database/movies/shershaah_02.jpg",
+			"assets/img/database/movies/shershaah_03.jpg",
+			"assets/img/database/movies/shershaah_04.jpg",
+			"assets/img/database/movies/shershaah_05.jpg",
+			"assets/img/database/movies/shershaah_06.jpg",
+			"assets/img/database/movies/shershaah_07.jpg",
+			"assets/img/database/movies/shershaah_08.jpg"
+		],
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "09",
+		"title": "Free Guy",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "13-08-2021",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "7.1",	
+		"image": "assets/img/database/movies/freeguy_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/freeguy_banner.jpg",
+		"poster": "assets/img/database/movies/freeguy_poster.jpg",
+		"description": "Dominic Toretto is forced to put his retirement on hold when Cipher, the dangerous cyberterrorist, escapes with the help of Dominic's estranged brother, an international terrorist. Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Justin Lin"],
+		"genre": ["Action", "Crime", "Thriller"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "X2m-08cOAbc",
+		"scenes": [	
+			"assets/img/database/movies/freeguy_banner.jpg",
+			"assets/img/database/movies/freeguy_banner.jpg",
+			"assets/img/database/movies/freeguy_banner.jpg"
+		],	
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "10",
+		"title": "Bloodshot",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2020",
+		"release_date": "13-03-2020",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "5.7",	
+		"image": "assets/img/database/movies/bldsht_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/bldsht_banner.jpg",
+		"poster": "assets/img/database/movies/bldsht_poster.jpg",
+		"description": "Ray Garrison, an elite soldier killed in battle, is resurrected and given superhuman abilities. As he sets out to get revenge, he uncovers secrets about his life and the people supposedly helping him.",
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Eiza González"  },
+			{ "actor": "Sam Heughan" },
+			{ "actor": "Toby Kebbell" }
+		],
+		"director": ["Dave Wilson"],
+		"genre": ["Action", "Adventure", "Sci-Fi"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "vOUVVDWdXbo",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "11",
+		"title": "Raya and the Last Dragon",
+		"type": "Movie",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "05-03-2021",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,		
+		"rating": "7.3",	
+		"image": "assets/img/database/movies/raya_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/raya_banner.jpg",
+		"poster": "assets/img/database/movies/raya_poster.jpg",
+		"description": "Ray Garrison, an elite soldier killed in battle, is resurrected and given superhuman abilities. As he sets out to get revenge, he uncovers secrets about his life and the people supposedly helping him.",
+		"cast": [	
+			{ "actor": "Kelly Marie Tran"  },
+			{ "actor": "Awkwafina"  },
+			{ "actor": "Gemma Chan" }
+		],
+		"director": ["Dave Wilson"],
+		"genre": ["Action", "Adventure", "Sci-Fi"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "1VIZ89FEjYI",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "12",
+		"title": "Joker",
+		"type": "Movie",
+		"top10": 0,
+		"year": "2019",
+		"release_date": "02-10-2019",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",		
+		"image": "assets/img/database/movies/joker_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/joker_banner.jpg",
+		"poster": "assets/img/database/movies/joker_poster.jpg",
+		"description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+		"cast": [	
+			{ "actor": "Joaquin Phoenix" }
+		],
+		"director": ["Todd Phillips"],
+		"genre": ["Drame", "Thriller", "Crime"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "zAGVQLHvwOY",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "13",
+		"title": "Avengers: Infinity War",
+		"type": "Movie",
+		"top10": 0,	
+		"year": "2018",
+		"release_date": "27-04-2018",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,		
+		"rating": "8.4",
+		"image": "assets/img/database/movies/infiwar_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/infiwar_banner.jpg",
+		"poster": "assets/img/database/movies/infiwar_poster.jpg",
+		"description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Sci-Fi"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "6ZfuNTqbHE8",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "14",
+		"title": "Avengers: Endgame",
+		"type": "Movie",
+		"top10": 0,	
+		"year": "2019",
+		"release_date": "26-04-2019",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/aendgame_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "15",
+		"title": "Pathaan",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2023",
+		"release_date": "25-01-2023",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/pathaan_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "16",
+		"title": "Shehzada",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2023",
+		"release_date": "10-02-2023",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/shehzada_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "17",
+		"title": "Brahmāstra: Part One – Shiva",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "09-09-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/brahmastra_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "18",
+		"title": "Bhool Bhulaiyaa 2",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "20-05-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/bb2_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "19",
+		"title": "Cirkus",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "23-12-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/cirkus_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "20",
+		"title": "Doctor G",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "14-10-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/doctorg_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "21",
+		"title": "Attack: Part 1",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "01-04-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/attack_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "22",
+		"title": "Heropanti 2",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "29-04-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/heropanti2_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "23",
+		"title": "Bachchhan Paandey",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "18-03-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/bachchhanpaandey_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "24",
+		"title": "Govinda Naam Mera",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "10-12-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/gnm_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "25",
+		"title": "Jersey",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "22-04-2022",
+		"movie_industry": 2, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/jersey_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "26",
+		"title": "Black Adam",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "21-10-2022",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/blackadam_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "27",
+		"title": "Black Panther: Wakanda Forever",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "11-11-2022",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/bpwf_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "28",
+		"title": "Spider-Man: No Way Home",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2021",
+		"release_date": "17-12-2021",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/smnwh_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "29",
+		"title": "Shang-Chi and the Legend of the Ten Rings",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2021",
+		"release_date": "02-09-2021",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/shangchi_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "Shang-Chi, a martial artist, lives a quiet life after he leaves his father and the shadowy Ten Rings organisation behind. Years later, he is forced to confront his past when the Ten Rings attack him.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "30",
+		"title": "Eternals",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2021",
+		"release_date": "05-11-2021",
+		"movie_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/eternals_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "The Eternals, a race of immortal beings with superhuman powers who have secretly lived on Earth for thousands of years, reunite to battle the evil Deviants.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "31",
+		"title": "K.G.F: Chapter 1",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2018",
+		"release_date": "21-12-2018",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/kgf1_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "32",
+		"title": "Robot - 2.0",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2018",
+		"release_date": "29-11-2018",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/robot2_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "When mobiles start flying from people's hands, Dr Vaseegaran and his robot Nila are asked to help. However, due to Pakshi Rajan having a hand in this, the two have to reinstate Chitti to defeat him.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "33",
+		"title": "Darbar",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2020",
+		"release_date": "09-01-2020",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/darbar_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "Aaditya, the commissioner of Mumbai Police, sets out to catch Ajay, a drug peddler. However, he uncovers a deeper controversy linked to an international drug lord and must mete out justice.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "34",
+		"title": "Bahubali: The Beginning",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2015",
+		"release_date": "10-17-2015",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/bahubali1_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "In the kingdom of Mahishmati, Shivudu falls in love with a young warrior woman. While trying to woo her, he learns about the conflict-ridden past of his family and his true legacy.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "35",
+		"title": "Baahubali 2: The Conclusion",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2020",
+		"release_date": "28-04-2017",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/bahubali2_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "After learning that his father was brutally killed by Bhallaladeva, Mahendra Baahubali raises an army to defeat him and release his mother from the former's captivity.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "36",
+		"title": "K.G.F: Chapter 2",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "14-04-2022",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/kgf2_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "37",
+		"title": "Master",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2021",
+		"release_date": "13-01-2021",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/master_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "An alcoholic professor is enrolled to teach at a juvenile facility, unbeknownst to him. He soon clashes with a ruthless gangster, who uses the children as scapegoats for his crimes.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "38",
+		"title": "Pushpa: The Rise",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2021",
+		"release_date": "17-12-2021",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/pushpa_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "39",
+		"title": "RRR",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "24-03-2022",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/rrr_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational path of freedom against the despotic rulers.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "40",
+		"title": "Vikram",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "03-06-2022",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/vikram_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "A special agent investigates a murder committed by a masked group of serial killers. However, a tangled maze of clues soon leads him to the drug kingpin of Chennai.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "41",
+		"title": "Kantara",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "30-09-2022",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/kantara_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "When greed paves the way for betrayal, scheming and murder, a young tribal reluctantly dons the traditions of his ancestors to seek justice.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	},
+	{
+		"id": "42",
+		"title": "Godfather",
+		"type": "Movie",
+		"top10": 1,	
+		"year": "2022",
+		"release_date": "30-09-2022",
+		"movie_industry": 3, 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "8.4",	
+		"image": "assets/img/database/movies/godfather_thumb.jpg",
+		"movie_banner": "assets/img/database/movies/aendgame_banner.jpg",
+		"poster": "assets/img/database/movies/aendgame_poster.jpg",
+		"description": "The Chief Minister's passing wreaks havoc across the state and in his political party. However, a mysterious contender for the post rises to eradicate wrongdoers.",
+		"cast": [	
+			{ "actor": "Chris Evans"  },
+			{ "actor": "Robert Downey Jr."  },
+			{ "actor": "Mark Ruffalo"  },
+			{ "actor": "Scarlett Johansson"  }
+		],
+		"director": ["Anthony Russo", "Joe Russo"],
+		"genre": ["Action", "Adventure", "Drame"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "TcMBFSGVi1c",
+		"video": "assets/trailer/loop.mp4"
+	}
+  ],
+  "webseries": [
+	{
+		"id": "ws01",
+		"title": "Stranger Things",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2016",
+		"release_date": "15-07-2016",
+		"web_industry": 1, 
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/stranthing_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/stranthing_banner.jpg",
+		"poster": "assets/img/database/movies/stranthing_poster.jpg",
+		"description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+		"cast": [	
+			{ "actor": "Millie Bobby Brown"  },
+			{ "actor": "Finn Wolfhard"  },
+			{ "actor": "Winona Ryder" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws02",
+		"type": "Web Series",
+		"top10": 1,
+		"title": "Money Heist",
+		"season": "mh01",
+		"year": "2017",
+		"release_date": "02-05-2017",
+		"web_industry": 1,  
+		"banner": 0,	
+		"newitem": 1,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/money_season5_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/money_banner.jpg",
+		"poster": "assets/img/database/movies/shershaah_poster.jpg",
+		"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+		"cast": [	
+			{ "actor": "Millie Bobby Brown"  },
+			{ "actor": "Finn Wolfhard"  },
+			{ "actor": "Winona Ryder" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU",
+		"series": [	
+			{
+				"season": "mh01",
+				"year": "2017",		
+				"rating": "7.1",		
+				"image": "assets/img/database/webseries/money_season1_thumb.jpg",
+				"movie_banner": "assets/img/database/webseries/money_season1_banner.jpg",
+				"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+				"cast": [	
+					{ "actor": "Millie Bobby Brown"  },
+					{ "actor": "Finn Wolfhard"  },
+					{ "actor": "Winona Ryder" }
+				],
+				"director": ["Matt Duffer", "Ross Duffer"],
+				"genre": ["Drame", "Fantasy", "Horror"],
+				"running_time": "124",
+				"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+				"trailer": "b9EkMc79ZSU"
+			},
+			{
+				"season": "mh02",
+				"year": "2017",		
+				"rating": "7.1",		
+				"image": "assets/img/database/webseries/money_season2_thumb.jpg",
+				"movie_banner": "assets/img/database/webseries/money_season1_banner.jpg",
+				"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+				"cast": [	
+					{ "actor": "Millie Bobby Brown"  },
+					{ "actor": "Finn Wolfhard"  },
+					{ "actor": "Winona Ryder" }
+				],
+				"director": ["Matt Duffer", "Ross Duffer"],
+				"genre": ["Drame", "Fantasy", "Horror"],
+				"running_time": "124",
+				"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+				"trailer": "b9EkMc79ZSU"
+			},
+			{
+				"season": "mh03",
+				"year": "2017",		
+				"rating": "7.1",		
+				"image": "assets/img/database/webseries/money_season3_thumb.jpg",
+				"movie_banner": "assets/img/database/webseries/money_season1_banner.jpg",
+				"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+				"cast": [	
+					{ "actor": "Millie Bobby Brown"  },
+					{ "actor": "Finn Wolfhard"  },
+					{ "actor": "Winona Ryder" }
+				],
+				"director": ["Matt Duffer", "Ross Duffer"],
+				"genre": ["Drame", "Fantasy", "Horror"],
+				"running_time": "124",
+				"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+				"trailer": "b9EkMc79ZSU"
+			},
+			{
+				"seasons": "mh04",
+				"year": "2017",		
+				"rating": "7.1",		
+				"image": "assets/img/database/webseries/money_season4_thumb.jpg",
+				"movie_banner": "assets/img/database/webseries/money_season1_banner.jpg",
+				"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+				"cast": [	
+					{ "actor": "Millie Bobby Brown"  },
+					{ "actor": "Finn Wolfhard"  },
+					{ "actor": "Winona Ryder" }
+				],
+				"director": ["Matt Duffer", "Ross Duffer"],
+				"genre": ["Drame", "Fantasy", "Horror"],
+				"running_time": "124",
+				"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+				"trailer": "b9EkMc79ZSU"
+			},
+			{
+				"seasons": "mh05",
+				"year": "2017",		
+				"rating": "7.1",		
+				"image": "assets/img/database/webseries/money_season5_thumb.jpg",
+				"movie_banner": "assets/img/database/webseries/money_season1_banner.jpg",
+				"description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+				"cast": [	
+					{ "actor": "Millie Bobby Brown"  },
+					{ "actor": "Finn Wolfhard"  },
+					{ "actor": "Winona Ryder" }
+				],
+				"director": ["Matt Duffer", "Ross Duffer"],
+				"genre": ["Drame", "Fantasy", "Horror"],
+				"running_time": "124",
+				"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+				"trailer": "b9EkMc79ZSU"
+			}
+		]
+	},	
+	{
+		"id": "ws03",
+		"title": "The Silent Sea",
+		"top10": 1,
+		"type": "Web Series",
+		"year": "2021",
+		"release_date": "24-12-2021",
+		"web_industry": 1, 	 
+		"banner": 0,	
+		"newitem": 1,	
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/silentsea_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/silentsea_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws04",
+		"title": "The Witcher",
+		"top10": 1,
+		"type": "Web Series",
+		"year": "2019",
+		"release_date": "20-12-2019",
+		"web_industry": 1, 	 
+		"banner": 0,	
+		"newitem": 0,	
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/the_witcher_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/the_witcher_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws05",
+		"title": "Lucifer",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2016", 
+		"release_date": "25-01-2016",
+		"web_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/lucifer_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/lucifer_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws06",
+		"title": "Titans",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2018",
+		"release_date": "12-10-2018",
+		"web_industry": 1,  
+		"banner": 0,	
+		"newitem": 0,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/titans_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/titans_banner_1.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws07",
+		"title": "Hellbound",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2021",
+		"release_date": "19-11-2021",
+		"web_industry": 1, 	
+		"banner": 1,	
+		"newitem": 0,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/hellbound_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/hellbound_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws08",
+		"title": "Lost in Space",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2018",
+		"release_date": "13-04-2018",
+		"web_industry": 1, 	
+		"banner": 0,	
+		"newitem": 0,		
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/lspace_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/lspace_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.", 
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws09",
+		"title": "Vikings",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2013",
+		"release_date": "03-03-2013",
+		"web_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,			
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/vikings_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/vikings_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.",
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	},
+	{
+		"id": "ws10",
+		"title": "Snowpiercer",
+		"type": "Web Series",
+		"top10": 1,
+		"year": "2013",
+		"release_date": "01-08-2013",
+		"web_industry": 1, 
+		"banner": 0,	
+		"newitem": 0,			
+		"rating": "7.1",		
+		"image": "assets/img/database/webseries/snowpiercer_thumb.jpg",
+		"movie_banner": "assets/img/database/webseries/snowpiercer_banner.jpg",
+		"description": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.",
+		"cast": [	
+			{ "actor": "Vin Diesel"  },
+			{ "actor": "Michelle Rodriguez"  },
+			{ "actor": "Jordana Brewster" }
+		],
+		"director": ["Matt Duffer", "Ross Duffer"],
+		"genre": ["Drame", "Fantasy", "Horror"],
+		"running_time": "124",
+		"countries": ["United Arab Emirates", "Canada", "United Kingdom"],
+		"trailer": "b9EkMc79ZSU"
+	}
+  ]
+}	
